@@ -35,7 +35,7 @@ const projects = [
       'A web application designed to simplify daycare operations and help manage essential daycare activities, enrollments, and daily tracking for caregivers and parents.',
     tags: ['Python', 'Django', 'HTML', 'CSS', 'Bootstrap'],
     category: 'fullstack',
-    status: 'in-progress',
+    status: 'completed',
     features: [
       'Child enrollment management',
       'Daily attendance tracking',
@@ -57,7 +57,7 @@ const projects = [
       'An AI-powered personal productivity and project management platform designed to help individuals organize tasks, manage goals, and build better daily habits.',
     tags: ['Python', 'Django', 'HTML', 'CSS', 'Bootstrap', 'AI Integration'],
     category: 'fullstack',
-    status: 'in-progress',
+    status: 'completed',
     features: [
       'Task & goal management',
       'Daily habit tracker',
@@ -70,6 +70,27 @@ const projects = [
     demo: null,
     gradient: 'linear-gradient(135deg, #ec4899 0%, #8b5cf6 100%)',
     emoji: '🚀',
+  },
+  {
+    id: 4,
+    title: 'DevAssist AI',
+    subtitle: 'AI-Powered Developer Project Management',
+    description:
+      'A Django platform that helps software teams organize projects and tasks, collaborate, track productivity, and get context-aware development help from an AI assistant.',
+    tags: ['Python', 'Django', 'Gemini AI', 'Machine Learning', 'Bootstrap', 'SQLite'],
+    category: 'fullstack',
+    status: 'completed',
+    features: [
+      'Project creation, milestones, and progress tracking',
+      'Task assignment, priorities, and deadline tracking',
+      'Gemini-powered coding help with project context',
+      'Machine-learning task delay prediction',
+      'Team productivity analytics and reports',
+    ],
+    github: 'https://github.com/shahanathasneem',
+    demo: null,
+    gradient: 'linear-gradient(135deg, #0ea5e9 0%, #8b5cf6 100%)',
+    emoji: '🤖',
   },
 ];
 
