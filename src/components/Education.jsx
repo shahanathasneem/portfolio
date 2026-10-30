@@ -16,7 +16,7 @@ const education = [
   {
     id: 2,
     degree: 'Bachelor of Science (B.Sc.) in Physics',
-    institution: 'MES College, Munnarkkad',
+    institution: 'MES College, Mannarkkad',
     period: '2018 – 2021',
     description: 'Graduated with a strong analytical background. Developed problem-solving and logical reasoning skills that now complement software development.',
     icon: <BookOpen size={22} />,
